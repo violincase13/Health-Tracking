@@ -1,7 +1,7 @@
 # Health-Tracking
 A Python script to run a health monitor on a Microbit board
 
-First, I have created all the necessary variables to use in the program.
+Firstly, I created all the necessary variables to use in the program.
 Those of integer type have an "int" input, and those that already take data from board components have an "input" input.
 ex: counted_steps = int(0), temperature = input.temperature()
 
